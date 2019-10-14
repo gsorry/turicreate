@@ -23,6 +23,6 @@ CUDA-enabled `mxnet-cu80` package:
 
 Make sure you install the same version of MXNet as the one `turicreate` recommends
 (currently `1.1.0`). If you have trouble setting up the GPU, the [MXNet
-installation instructions](https://mxnet.incubator.apache.org/get_started/install.html) may
+installation instructions](https://mxnet.incubator.apache.org/get_started) may
 offer additional help.
 
